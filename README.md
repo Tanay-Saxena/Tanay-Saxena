@@ -21,11 +21,6 @@ return happiness;
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
 
-<h1 align="center"> 🔥 Contributions: </h1>
-
-<p align= "center">	
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
-	</p>
 
 
 [![MasterHead](https://ibb.co/XYjPXBG)
