@@ -24,14 +24,11 @@ return happiness;
 [![MasterHead](https://ibb.co/XYjPXBG)
 
 <img align="right" alt="Coding" width="400" src= " https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg "/>
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Service Now as an Intern**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **FULL-Stack Web Development**
 
 - 💬 Ask me about **Full MERN Stack Develpment , DSA**
 
