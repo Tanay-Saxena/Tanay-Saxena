@@ -55,4 +55,4 @@ return happiness;
 </p>
 
 
-<div><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay-saxena&show_icons=true&locale=en&layout=compact" alt="tanay-saxena" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay-saxena&show_icons=true&locale=en&layout=compact" alt="tanay-saxena" /></div>
