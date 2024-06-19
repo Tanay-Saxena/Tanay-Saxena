@@ -1,5 +1,5 @@
-## <p align="center">Hey, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13)</p>
-
+## <p align="center">Hey, Hi 👋, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13)</p>
+<h3 align="center">"Code with passion, create with purpose."</h3>
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
 </h3>
@@ -19,13 +19,11 @@ desktop.apply (wallpaper); happiness = INFINITY;
 return happiness;
 }
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="tanay-saxena" /> </p>
 
 
 
 [![MasterHead](https://ibb.co/XYjPXBG)
-<h1 align="center">Hi 👋, I'm Tanay Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="tanay-saxena" /> </p>
 
