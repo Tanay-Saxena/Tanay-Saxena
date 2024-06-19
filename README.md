@@ -27,20 +27,6 @@ return happiness;
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
 	</p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Npm and Vite](https://404nikhil.hashnode.dev/npm-and-vite)
-- [Parcel is a beast](https://404nikhil.hashnode.dev/parcel-is-a-beast-an-all-in-one-bundle-for-powerful-web-development)
-- [The difference between server-side rendering (SSR) and building server applications](https://404nikhil.hashnode.dev/the-difference-between-server-side-rendering-ssr-and-building-server-applications)
-<!-- BLOG-POST-LIST:END -->
-
-  ## 🙋‍♂️ Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-NikhilDhariwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)](https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)
-[![Gmail Badge](https://img.shields.io/badge/-nikhildhariwal2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhildhariwal2004@gmail.com)](mailto:nikhildhariwal2004@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-404Nikhil-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/404Nikhil)](https://twitter.com/404Nikhil)
-[![Instagram Badge](https://img.shields.io/badge/-404nikhil_dhariwal-pink?style=flat-square&logo=Instagram&logoColor=purple&link=https://twitter.com/404nikhil_dhariwal)](https://instagram.com/404nikhil_dhariwal)
-
 
 <details>
   <summary>Github Stats</summary>
