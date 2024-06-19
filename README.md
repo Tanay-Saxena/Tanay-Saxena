@@ -49,10 +49,10 @@ return happiness;
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tanay-saxena&show_icons=true&locale=en" alt="tanay-saxena" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanay-saxena&show_icons=true&locale=en" alt="tanay-saxena" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanay-saxena&" alt="tanay-saxena" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanay-saxena&" alt="tanay-saxena" />
 </p>
 
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay-saxena&show_icons=true&locale=en&layout=compact" alt="tanay-saxena" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay-saxena&show_icons=true&locale=en&layout=compact" alt="tanay-saxena" /></div>
