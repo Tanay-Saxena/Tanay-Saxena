@@ -2,7 +2,7 @@
 ## <p align="center">Hey, Hi 👋, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13)</p>
 ![MasterHead](https://github.com/Tanay-Saxena/Tanay-Saxena/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 
-<h3 align="center">"Code with passion, create with purpose."</h3>
+<h3 align="center">"Code your dreams into reality."</h3>
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
 </h3>
