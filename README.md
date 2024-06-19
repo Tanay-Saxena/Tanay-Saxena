@@ -1,4 +1,4 @@
-## <p align="center">Hey, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13).</p>
+## <p align="center">Hey, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13)</p>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
