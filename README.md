@@ -1,4 +1,7 @@
+
 ## <p align="center">Hey, Hi 👋, I'm [Tanay Saxena](https://linktr.ee/tanaysaxena13)</p>
+![MasterHead](https://github.com/Tanay-Saxena/Tanay-Saxena/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+
 <h3 align="center">"Code with passion, create with purpose."</h3>
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
@@ -21,7 +24,6 @@ return happiness;
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay-saxena&label=Profile%20views&color=0e75b6&style=flat" alt="tanay-saxena" /> </p>
 
-![MasterHead](https://github.com/Tanay-Saxena/Tanay-Saxena/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 
 <img align="right" alt="Coding" width="400" src= " https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg "/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
