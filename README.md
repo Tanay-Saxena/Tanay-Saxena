@@ -27,13 +27,3 @@ return happiness;
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
 	</p>
 
-
-<details>
-  <summary>Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Nikhil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&locale=en&theme=cobalt" alt="Nikhil" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404Nikhil" alt="Nikhil" /></a> </p>
-  
-</details>
