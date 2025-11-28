@@ -1,80 +1,56 @@
-<h1 align="center">Hey 👋, I'm <a href="https://linktr.ee/tanaysaxena13" target="_blank">Tanay Saxena</a></h1>
+## 📊 GitHub Analytics & Developer Profile
 
 <p align="center">
-  <img src="https://github.com/Tanay-Saxena/Tanay-Saxena/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png" alt="header"/>
-</p>
-
-<h3 align="center">Building ML-driven solutions & data-powered applications 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9F2BFF&center=true&vCenter=true&width=500&lines=ML+%7C+AI+%7C+Data+Science.;Full-Stack+Explorer.;Backend+%7C+Java+%7C+Python.;Always+learning+something+new." />
-</p>
-
----
-
-## 🧑‍💻 About Me  
-- 🔭 Currently interning at **ServiceNow**  
-- 📘 Learning **Full-Stack Development + Advanced ML workflows**  
-- 🤖 Interested in **ML, LLMs, Data Pipelines, Backend Engineering**  
-- 💬 Ask me about **Machine Learning, Python, MERN, DSA**  
-- 📫 Reach me at **tanaysaxena13@gmail.com**  
-- ⚡ Fun Fact: *I stay optimistic even when debugging at 3 AM 😄*
-
----
-
-## 🚀 Tech Stack  
-### **Languages**  
-Python · Java · JavaScript · TypeScript · SQL · C++
-
-### **Machine Learning / AI**  
-TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · Prompt Engineering · Embeddings
-
-### **Backend / Cloud**  
-Node.js · Express.js · REST APIs · AWS · OCI · Git · GitHub · Linux
-
-### **Frontend / Design**  
-React.js · HTML · CSS · Figma
-
----
-
-## 🔥 Featured Projects
-
-### 🔹 **GeminiDecode – Multilingual Document Extraction**
-AI-powered text extraction using Gemini + custom prompt engineering  
-📌 *Extracts structured/multilingual documents with high accuracy*  
-🔗 https://github.com/Tanay-Saxena/GeminiDecode_SmartInternz
-
-### 🔹 **Deepfake Detection System – CNN Classifier**
-CNN-based image classifier achieving **84% accuracy**  
-📌 *Detects manipulated images with preprocessing + prediction pipeline*  
-🔗 https://github.com/Tanay-Saxena/Deepfake-detection
-
-### 🔹 **OptiSim – Algorithm Simulator (Java)**
-Interactive simulator for Sorting, Searching, Graph algorithms  
-📌 *Built for performance visualization + DSA learning*  
-🔗 https://github.com/Tanay-Saxena/OptiSim-Code-Optimizer-Algorithm-Simulator
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/tanay-saxena13" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-  <a href="https://instagram.com/tanaysaxena13" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tanay-saxena&show_icons=true&theme=react" height="180"/>
+  <!-- Profile Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tanay-Saxena&show_icons=true&theme=react&cache_seconds=7200&count_private=true&rank_icon=github"
+    height="185"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanay-saxena&theme=react" height="180"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanay-saxena&layout=compact&theme=react" height="160"/>
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tanay-Saxena&theme=react&date_format=j%20M%5B%20Y%5D"
+    height="185"
+  />
 </p>
 
 ---
 
-<p align="center">✨ *“Code your dreams into reality.”* ✨</p>
+### 🎯 **Developer Summary**
+> Final-year CSE student passionate about building  
+> **high-impact ML systems**, **DSA-optimized tools**, and **cloud-powered apps**.  
+> Skilled in **Java, Python, SQL, ML/DL models, Feature Engineering, and Backend APIs**.  
+> Constantly experimenting, shipping projects, and pushing boundaries. 🚀  
+> *(Based on your resume)* :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🧠 Technical Strength Meter
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/ML%20%2F%20DL-Advanced-yellow?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/DSA-Strong-success?style=for-the-badge&logo=codeforces"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20OCI-purple?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+---
+
+## 📈 Contribution Graph (Current Year)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanay-Saxena&theme=react-dark&custom_title=Tanay%20Saxena%27s%20Contribution%20Graph"/>
+</p>
+
+---
+
+## 🚀 Languages I Use the Most
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanay-Saxena&layout=compact&theme=react&cache_seconds=7200"
+    height="165"
+  />
+</p>
+
+---
+
+<p align="center">✨ *"Engineering AI-driven solutions — from concept to cloud."* ✨</p>
