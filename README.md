@@ -64,30 +64,6 @@ Interactive simulator for Sorting, Searching, Graph algorithms
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-  <!-- Main Stats (FORCED SYNC) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Tanay-Saxena&show_icons=true&theme=react&count_private=true&include_all_commits=true&cache_seconds=60&rank_icon=github&custom_title=Tanay%20Saxena%20%7C%20Software%20Engineer%20%26%20ML%20Developer&v=2"
-    height="185"
-  />
-  &nbsp;&nbsp;
-
-  <!-- Streak Stats (FORCED SYNC) -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Tanay-Saxena&theme=react&date_format=j%20M%5B%20Y%5D&fire=FF6D00&currStreakLabel=29A3FF&sideLabels=29A3FF&v=2"
-    height="185"
-  />
-</p>
-
-<p>
-  <!-- Top Languages (FORCED SYNC) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanay-Saxena&layout=compact&theme=react&cache_seconds=60&langs_count=8&custom_title=Languages%20I%20Use%20the%20Most&v=2"
-    height="165"
-  />
-</p>
-
 
 ---
 
